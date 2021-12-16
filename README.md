@@ -7,7 +7,7 @@ To write a program to find the square root of a number.
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
-## Algorithm
+## Algorithm:
 
 ## Step 1:
 Define a function.
