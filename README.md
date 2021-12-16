@@ -14,7 +14,7 @@ Define a function.
 ## Step 2:
 Use for loop and set the iterating value as 10.
 ## Step 3:
-Calculate  number = 0.5 * (x + b / x) for 10  iterations.
+Calculate x= 0.5 * (x + b / x) for 10  iterations.
 ## Step 4:
 Give the input.
 ## Step 5:
